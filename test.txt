@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std; 
+int main() 
+    {  
+        int i = 1;  
+        char *ptr = (char *)(&i);  
+        cout<<*ptr<<endl;
+        cout<<*(ptr+1)<<endl;
+        return 0;
+    }

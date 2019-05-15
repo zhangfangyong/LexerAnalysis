@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/company/Gui/Control.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/Util/FileReadUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/Util/LexerUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/symbols/ErrorSign.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/symbols/Identifier.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/symbols/KeyWord.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/symbols/Lexer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/symbols/Operator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/symbols/Separator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/company/symbols/UnsignedNumber.java" charset="GBK" />
+  </component>
+</project>
